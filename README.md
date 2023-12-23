@@ -33,7 +33,7 @@ The Project Management System is a full-stack web application that allows users 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Satvik-Garg/WebDevelopment-Project.git
+   git clone https://github.com/draksham/WebDevelopment-Project.git
    ```
 
 2. Set up the database:
